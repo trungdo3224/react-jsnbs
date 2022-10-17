@@ -1,6 +1,6 @@
 # react-jsnbs is a markdowns editor and code editor for javascript on you local browser.
 # How to use react-jsnbs
-# Run `npx react-jsnbs` serve and open application on localhost:4005
+# Run `npx react-jsnbs serve` and open application on localhost:4005
 
 # Or clone this repository
 ### `lerna bootstrap` at project's root folder.
