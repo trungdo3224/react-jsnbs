@@ -6,4 +6,8 @@
 ### `lerna bootstrap` at project's root folder.
 ### `npm run start` at project's root folder.
 ### `cd packages/cli/dist` and run `node index.js serve`
+<<<<<<< HEAD
 ### `node index.js serve --help` for more options.
+=======
+### `node index.js serve --help` for more options.
+>>>>>>> 65216e0cf3b0a1c3a3efa1d0c34ec7225dd7d7c5
