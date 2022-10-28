@@ -6,5 +6,10 @@
   },
   "scripts": {
     "start": "lerna run start --parallel"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-user/repo-url.git"
   }
+  
 }
