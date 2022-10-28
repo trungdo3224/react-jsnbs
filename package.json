@@ -6,10 +6,6 @@
   },
   "scripts": {
     "start": "lerna run start --parallel"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/trungdo3224/react-jsnbs.git"
   }
   
 }
